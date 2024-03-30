@@ -1,0 +1,24 @@
+# VTProE Only Ignore extensions and folders
+
+#Extensions. Basically the only file allowed is the *.VTP
+*.ASV
+*.vtz
+*.vta #Is a compiled file. Might contain template, but that is stored somewhere else.  Don't track it but save it to Code and Config.
+*.sgd
+*.hash
+*.ced
+*.sgd_
+*.sgd2
+*.zip
+*.c3prjz
+
+# XPanel / Air
+*.xexe/
+*.xweb/
+*.prj/
+*.c3prj/
+*.CORE3
+*.Core3z
+*.ipad
+*.iphone
+*.xpnl

@@ -1,0 +1,10 @@
+# Declare files that are text files
+.gitattributes text
+.gitignore text
+
+
+# Denote all files that are truly binary and should not be modified
+*.vta binary
+*.vtp binary
+*.zip binary
+*.pdf binary

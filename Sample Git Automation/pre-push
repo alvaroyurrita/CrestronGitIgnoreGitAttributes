@@ -1,0 +1,3 @@
+#!/bin/sh
+StandardIn=`cat`
+powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "PrePushAutomation.ps1 $1 $2 '$StandardIn'"

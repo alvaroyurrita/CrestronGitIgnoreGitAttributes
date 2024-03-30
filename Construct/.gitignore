@@ -1,0 +1,6 @@
+# construct node directory
+__TEMP/     
+# construct compiled ch5z
+output/ 
+# construct project state
+.cse

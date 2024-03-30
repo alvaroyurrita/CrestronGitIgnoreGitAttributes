@@ -1,0 +1,10 @@
+# construct pages
+*.cuig binary 
+# construct project
+*.cuip binary 
+# construct buttons
+*.cuib binary 
+# construct assets
+*.cuia binary  
+# construct widgets
+*.cuiw binary 
